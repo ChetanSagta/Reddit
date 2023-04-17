@@ -1,0 +1,7 @@
+.cache/*
+.idea/*
+.cproject
+build/*
+.project
+compile_commands.json
+secret.txt
